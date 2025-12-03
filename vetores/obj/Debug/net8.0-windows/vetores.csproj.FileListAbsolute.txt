@@ -1,0 +1,16 @@
+C:\Users\PICHAU\source\repos\vetores\vetores\bin\Debug\net8.0-windows\vetores.exe
+C:\Users\PICHAU\source\repos\vetores\vetores\bin\Debug\net8.0-windows\vetores.deps.json
+C:\Users\PICHAU\source\repos\vetores\vetores\bin\Debug\net8.0-windows\vetores.runtimeconfig.json
+C:\Users\PICHAU\source\repos\vetores\vetores\bin\Debug\net8.0-windows\vetores.dll
+C:\Users\PICHAU\source\repos\vetores\vetores\bin\Debug\net8.0-windows\vetores.pdb
+C:\Users\PICHAU\source\repos\vetores\vetores\obj\Debug\net8.0-windows\vetores.frmmenu.resources
+C:\Users\PICHAU\source\repos\vetores\vetores\obj\Debug\net8.0-windows\vetores.csproj.GenerateResource.cache
+C:\Users\PICHAU\source\repos\vetores\vetores\obj\Debug\net8.0-windows\vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\source\repos\vetores\vetores\obj\Debug\net8.0-windows\vetores.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\vetores\vetores\obj\Debug\net8.0-windows\vetores.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\vetores\vetores\obj\Debug\net8.0-windows\vetores.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\vetores\vetores\obj\Debug\net8.0-windows\vetores.dll
+C:\Users\PICHAU\source\repos\vetores\vetores\obj\Debug\net8.0-windows\refint\vetores.dll
+C:\Users\PICHAU\source\repos\vetores\vetores\obj\Debug\net8.0-windows\vetores.pdb
+C:\Users\PICHAU\source\repos\vetores\vetores\obj\Debug\net8.0-windows\vetores.genruntimeconfig.cache
+C:\Users\PICHAU\source\repos\vetores\vetores\obj\Debug\net8.0-windows\ref\vetores.dll
